@@ -7,15 +7,5 @@ public class LetraIdentificada {
     }
  
  static String modeloBuscado = "Yamaha";
-
-
-    public String getModeloBuscado() {
-        return modeloBuscado;
-    }
-
-    public void setModeloBuscado(String modeloBuscado) {
-        this.modeloBuscado = modeloBuscado;
-    }
- 
     
 }
