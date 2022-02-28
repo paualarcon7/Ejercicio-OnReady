@@ -1,6 +1,6 @@
 package Vehiculos;
 
-public class Vehiculos implements Comparable<Vehiculos> {
+public abstract class Vehiculos implements Comparable<Vehiculos> {
     
     protected String marca;
     protected String modelo;
