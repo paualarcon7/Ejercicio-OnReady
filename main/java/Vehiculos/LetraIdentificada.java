@@ -1,6 +1,6 @@
 package Vehiculos;
 
-public abstract class LetraIdentificada {
+public class LetraIdentificada {
 
     public static String indexOf(String letraBuscada) {
         return modeloBuscado;
